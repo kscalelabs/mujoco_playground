@@ -61,7 +61,7 @@
 
   <worldbody>
     <light name="spotlight" mode="targetbodycom" target="Z-BOT2_MASTER-BODY-SKELETON" pos="3 0 4"/>
-    <body name="Z-BOT2_MASTER-BODY-SKELETON" childclass="zbot" pos="0 0 0.407" euler="0 0 1.57">
+    <body name="Z-BOT2_MASTER-BODY-SKELETON" childclass="zbot" pos="0 0 0.411" euler="0 0 1.57">
       <freejoint/>
       <site name="imu" />
       <camera name="front" pos="1.210 -0.435 0.32" xyaxes="0.342 0.940 0.000 -0.321 0.117 0.940" mode="trackcom"/>
